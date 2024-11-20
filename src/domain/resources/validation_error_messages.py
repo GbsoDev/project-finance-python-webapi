@@ -1,0 +1,7 @@
+INVALID_PARAMETERS_FOR_CREATING_THE_ENTITY = "Invalid parameters for creating the entity"
+INVALID_PARAMETERS_FOR_UPDATING_THE_ENTITY = "Invalid parameters for updating the entity"
+ERROR_NONE_PARAMETER = "Validation error: {} parameter is required"
+ERROR_EMPTY_PARAMETER = "Validation error: {} parameter cannot be empty"
+ERROR_LESS_THAN_OR_EQUAL_PARAMETER = "Validation error: {} parameter cannot be less than or equal to {}"
+ERROR_GREATER_THAN_OR_EQUAL_PARAMETER = "Validation error: {} parameter cannot be greater than or equal to {}"
+ERROR_UNDEFINED_VALUE_FOR_ENUM = "The value {} is not a defined value for the enumeration type {}"
